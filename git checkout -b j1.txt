@@ -1,4 +1,4 @@
-git checkout -b j2
+git checkout -b j3
 git add .
 git commit -m"this is a commit"
-git push -u origin j2
+git push -u origin j3
