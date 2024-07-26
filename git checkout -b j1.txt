@@ -1,0 +1,4 @@
+git checkout -b j1
+git add .
+git commit -m"this is a commit"
+git push -u origin j1
