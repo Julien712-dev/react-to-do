@@ -1,4 +1,0 @@
-git checkout -b j0
-git add .
-git commit -m"this is a commit"
-git push -u origin j0
